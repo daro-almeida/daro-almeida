@@ -2,8 +2,9 @@
 # Diogo Almeida
 
 **`MSc Computer Engineering Student / Distributed Systems Engineer / Programmer`**
-
+<div style="text-align:justify;">
 I am a Masters student in Computer Engineering with a strong interest in distributed systems and a passion for research. My academic background and my self-study have provided me with a solid foundation in the field of distributed systems. I have been particularly interested in understanding the challenges and limitations of these systems, and how to overcome them. I am excited to continue my research in this field and to apply my knowledge and skills to real-world problems. I am also eager to learn from and collaborate with industry experts in this field and to contribute to its ongoing development.
+</div>
 
 #
 ### 🧰 Language and Tools 
@@ -31,8 +32,8 @@ I am a Masters student in Computer Engineering with a strong interest in distrib
 
 ### 📊 Stats
 
-<a><img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=daro-almeida&show_icons=true&count_private=true&theme=radical&layout=compact" /></a>
-<a><img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daro-almeida&langs_count=6&hide=jupyter%20notebook&theme=radical&layout=compact" /></a>
+<a><img height="175" align="center" src="https://github-readme-stats.vercel.app/api?username=daro-almeida&show_icons=true&count_private=true&theme=radical&layout=compact" /></a>
+<a><img height="175" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daro-almeida&langs_count=6&hide=jupyter%20notebook&theme=radical&layout=compact" /></a>
 
 
 
