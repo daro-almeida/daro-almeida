@@ -3,7 +3,7 @@
 
 **`MSc Computer Engineering Student / Distributed Systems Engineer / Programmer`**
 <div style="text-align:justify;">
-I am a Masters student in Computer Engineering with a strong interest in distributed systems and a passion for research. My academic background and my self-study have provided me with a solid foundation in the field of distributed systems. I have been particularly interested in understanding the challenges and limitations of these systems, and how to overcome them. I am excited to continue my research in this field and to apply my knowledge and skills to real-world problems. I am also eager to learn from and collaborate with industry experts in this field and to contribute to its ongoing development.
+I am a Master's student in Computer Engineering with a particular interest in distributed systems research, specially technologies that aim to decentralize trust, such as blockchains. My academic background and self-study have provided me concepts and skills which allow me to build innovative ideas regarding research. Besides concepts, I am also efficient in practice, being adaptable to new tools and environments. I consider myself an easy to work with individual being able to communicate with people and understanding their points of view.
 </div>
 
 #
