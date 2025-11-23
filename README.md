@@ -28,10 +28,6 @@ I am a Master's student in Computer Engineering with a particular interest in di
 
 <br/>
 
-#
-
-### 📊 Stats
-
 <!-- <a><img height="175" align="center" src="https://github-readme-stats.vercel.app/api?username=daro-almeida&show_icons=true&count_private=true&theme=radical&layout=compact" /></a> -->
 <a><img height="175" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daro-almeida&langs_count=6&hide=jupyter%20notebook,tex&theme=radical&layout=compact" /></a>
 
