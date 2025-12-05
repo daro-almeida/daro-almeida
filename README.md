@@ -7,7 +7,7 @@ Hi! I'm a 24-year-old Master of Computer Science and Engineering with a major in
 </div>
 
 #
-### 🧰 Languages and Tools 
+### 🧰 Languages and Services 
 
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
 <img align="left" alt="Kubernetes" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"/>
