@@ -33,7 +33,9 @@ Hi! I'm a 24-year-old Master of Computer Science and Engineering with a major in
 
 # 
 <!-- <a><img height="175" align="center" src="https://github-readme-stats.vercel.app/api?username=daro-almeida&show_icons=true&count_private=true&theme=radical&layout=compact" /></a> -->
-<a><img height="500" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daro-almeida&langs_count=3&hide=jupyter%20notebook,tex&theme=radical&layout=donut" /></a>
+<div align="center">
+  <img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daro-almeida&langs_count=3&hide=jupyter%20notebook,tex&theme=radical&layout=donut" />
+</div>
 
 
 
