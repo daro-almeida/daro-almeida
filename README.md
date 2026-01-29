@@ -1,9 +1,9 @@
 
 # Diogo Almeida
 
-**`Master of Computer Engineering / Distributed Systems Engineer / Full-Stack Developer`**
+**`MSc in Computer Science | Distributed Systems Engineer | Full-Stack/Backend Developer`**
 <div style="text-align:justify;">
-Hi! I'm a 24-year-old Master of Computer Science and Engineering with a major in Computer Systems. I have a great interest in decentralized and reliable distributed systems, such as blockchains and other decentralized trust services. My curiosity in these subjects has led me to perform my own related research and lecturing university classes. I am also a great advocate of Linux based operation systems and other alternate open-source services that aim at providing user independence and privacy.
+Hi! I'm a recent MSc in Computer Science with a major in Computer Systems. I have a great interest in decentralized and reliable distributed systems, such as blockchains and other decentralized trust services. I perform my own related research and lectured university classes. I am also a great advocate of Linux operation systems and other alternate open-source services that aim at providing user independence and privacy.
 </div>
 
 #
