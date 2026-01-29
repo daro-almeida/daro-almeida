@@ -7,7 +7,7 @@ Hi! I'm a recent MSc in Computer Science with a major in Computer Systems. I hav
 </div>
 
 #
-### 🧰 Languages and Services 
+### 🧰 Languages, Frameworks, Services & Others
 
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
 <img align="left" alt="Kubernetes" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"/>
